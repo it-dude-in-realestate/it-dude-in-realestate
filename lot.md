@@ -36,7 +36,7 @@ But overall, the total cost of the development:
 7. Check if the city has "plat" for the lot/neighborhood. "Plat" is an official county map, required for any construction. This is more difficult to obtain since there is no system in Bexar county. It costs around 10k to order one. Try to find if there is one during the transaction. If unknown, assume there is not.
 When I bought a lot in 78202, they said there was no plat. When we bought a second lot in the same neighborhood, the other owner disclosed the plat during negotiation (the plat was from the year 1930). It was the same plat for both lots. It seems like a hit and miss.
 
-8. Look for the GIS (Geographic Information System) of the neighborhood. For example, Bexar county has https://www.bcad.org/mapSearch/?cid=1
+8. Look for the GIS (Geographic Information System) of the neighborhood. For example, Bexar county has https://www.bcad.org/mapSearch/?cid=1 , the city of San Antonio has this one: https://gis.sanantonio.gov/DSD/OneStop/Index.html
 Depending how advanced the system is, you can pull up easements, ordinances, water lines, zones, etc. 
 I find very useful information reading all ordinances from the lot prior acquiring one.
 
